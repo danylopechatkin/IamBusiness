@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC102C6429B0141D00B01EC4 /* DashBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC102C6329B0141D00B01EC4 /* DashBoardViewController.swift */; };
 		ECFCF5C729AD6F4800923EFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECFCF5C629AD6F4800923EFB /* AppDelegate.swift */; };
 		ECFCF5C929AD6F4800923EFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECFCF5C829AD6F4800923EFB /* SceneDelegate.swift */; };
 		ECFCF5CE29AD6F4900923EFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECFCF5CC29AD6F4800923EFB /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC102C6329B0141D00B01EC4 /* DashBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardViewController.swift; sourceTree = "<group>"; };
 		ECFCF5C329AD6F4800923EFB /* IamBusiness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IamBusiness.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECFCF5C629AD6F4800923EFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ECFCF5C829AD6F4800923EFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				ECFCF5DA29AD6F8000923EFB /* StartViewController.swift */,
 				ECFCF5DC29AD6F8C00923EFB /* LoginViewController.swift */,
 				ECFCF5DE29AD6FAA00923EFB /* SignupViewController.swift */,
+				EC102C6329B0141D00B01EC4 /* DashBoardViewController.swift */,
 				ECFCF5E029AD6FB700923EFB /* HomeViewController.swift */,
 				ECFCF5CF29AD6F4A00923EFB /* Assets.xcassets */,
 				ECFCF5D129AD6F4A00923EFB /* LaunchScreen.storyboard */,
@@ -150,6 +153,7 @@
 				ECFCF5DD29AD6F8C00923EFB /* LoginViewController.swift in Sources */,
 				ECFCF5C729AD6F4800923EFB /* AppDelegate.swift in Sources */,
 				ECFCF5DF29AD6FAA00923EFB /* SignupViewController.swift in Sources */,
+				EC102C6429B0141D00B01EC4 /* DashBoardViewController.swift in Sources */,
 				ECFCF5C929AD6F4800923EFB /* SceneDelegate.swift in Sources */,
 				ECFCF5DB29AD6F8000923EFB /* StartViewController.swift in Sources */,
 				ECFCF5E129AD6FB700923EFB /* HomeViewController.swift in Sources */,
