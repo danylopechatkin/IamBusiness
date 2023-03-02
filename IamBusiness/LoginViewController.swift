@@ -49,8 +49,6 @@ class LoginViewContoller: UIViewController, UITextViewDelegate {
             string: "Confirm a password", attributes: [NSAttributedString.Key.foregroundColor: UIColor.lightGray])
         
         
-        
-        
         loginNowButton.layer.cornerRadius = 14
         loginNowButton.layer.shadowColor = UIColor.black.cgColor
         loginNowButton.layer.shadowOpacity = 0.3

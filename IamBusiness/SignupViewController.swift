@@ -12,24 +12,11 @@ class SignupViewController: UIViewController {
     
     
     @IBOutlet var nameTextField: UITextField!
-    
-    
     @IBOutlet var emailTextField: UITextField!
-    
-    
     @IBOutlet var passwordTextField: UITextField!
-    
-    
     @IBOutlet var confirmPasswordTextField: UITextField!
-    
-    
     @IBOutlet var registerView: UIView!
-    
-    
     @IBOutlet var registerButton: UIButton!
-    
-    
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
