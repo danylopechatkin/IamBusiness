@@ -42,15 +42,7 @@ class ValueAddViewController: UIViewController {
     
     
     
-    // Экшн для текстового поля, срабатывает по окончании ввода (нажатии Enter)
-    @IBAction func textFieldEntered(_ sender: UITextField) {
-        // Получение текста из поля, конвертирование его в Double и присвоение значения переменной
-        var myDigit: Double = 0
-        myDigit = Double(AddingTextField.text!)!
-        // Печататем в консоли значение переменной
-        print("myDigit = \(myDigit)")
-        
-    }
+    
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         AddingTextField.resignFirstResponder()
