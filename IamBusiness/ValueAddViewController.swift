@@ -8,7 +8,7 @@
 import UIKit
 
 class ValueAddViewController: UIViewController {
-    
+
     
     @IBOutlet var AddingTextField: UITextField!
     
